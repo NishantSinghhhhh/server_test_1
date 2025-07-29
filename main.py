@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-"""
-Simple OCR Server - Fixed Version
-"""
 
 import os
 import json
