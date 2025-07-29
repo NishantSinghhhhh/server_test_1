@@ -1,0 +1,88 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build directories
+dist/
+build/
+out/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled source #
+###################
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Java
+*.jar
+*.war
+*.ear
+
+# Others
+*.swp
+*.swo
+
+# Ignore locks
+package-lock.json
+yarn.lock
+
+# Ignore Python virtual environment folders
+venv/
+.venv/
+env/
+.venv-club/
+# Add any additional custom venv names your team might use
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
